@@ -8,7 +8,7 @@ This repository contains a collection of free resoures for interview preparation
 
 ## Who we are
 
-We are [Lead the future](https://leadthefuture.tech/), a non-profite organization that offer 1-1 mentorship to the best students int he STEM field. 
+We are [Lead the future](https://leadthefuture.tech/), a non-profite organization that offer 1-1 mentorship to the best students in the STEM field. 
 * [Website: https://leadthefuture.tech/](https://leadthefuture.tech/)
 * [Facebook: LeadTheFutureMentorship/](https://www.facebook.com/LeadTheFutureMentorship/)
 * [Linkedln: leadthefuture/](https://www.linkedin.com/company/leadthefuture/)
