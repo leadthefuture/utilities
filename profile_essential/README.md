@@ -3,7 +3,7 @@
 ### GitHub profile 
 
 * [Github Learning lab](https://lab.github.com/)
-* [10 tipes for github Profile](https://impulsate.between.tech/en/tips-github-profile)
+* [10 tips for github Profile](https://impulsate.between.tech/en/tips-github-profile)
 
 ### Linkedln profile 
 
