@@ -10,6 +10,9 @@ This repository contains a collection of free resoures for interview preparation
 * [System Design](system_design/README.md)
 * [SWE: Job titles and roles](https://www.holloway.com/s/trh-job-titles-levels-fundamentals-for-software-engineering)
 * [Project ideas](project_ideas/README.md)
+* [SWE tools](swe_tools/README.md)
+
+
 ## Business 
 
 
